@@ -1,4 +1,3 @@
-% CVPR WEEK 2 PCA
 %Create a distribution of 5000 random 2D points, with %x’ and ‘y’ coordinates in the range [0,1].
 pt = rand(2,5000); %why 2?
 % Plot them.
